@@ -1,0 +1,12 @@
+# BASIC
+urllib3==1.26.18
+requests
+jmespath
+#netaddr
+
+# AWS
+botocore
+boto3
+
+#SERVICENOW
+pysnow
